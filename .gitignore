@@ -1,0 +1,17 @@
+*.[oa]
+scene/
+without_kinect/
+images/
+apps/umve/
+./apps/meshalign/meshalign
+./apps/sfmrecon/sfmrecon
+./apps/fssrecon/fssrecon
+./apps/makescene/makescene
+./apps/umve/umve
+./apps/sceneupgrade/sceneupgrade
+./apps/dmrecon/dmrecon
+./apps/meshclean/meshclean
+./apps/meshconvert/meshconvert
+./apps/mesh2pset/mesh2pset
+./apps/scene2pset/scene2pset
+./apps/bundle2pset/bundle2pset
